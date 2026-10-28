@@ -1,0 +1,1 @@
+### This branch preserves the original v2 codebase by its [original author](https://github.com/gamingdiamond982) for ease of navigation. For the original repository, visit [gamingdiamond982/taubot-v2](https://github.com/gamingdiamond982/taubot-v2).
